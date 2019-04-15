@@ -4,12 +4,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Name
+    | Nome da Aplicação
     |--------------------------------------------------------------------------
     |
-    | This value is the name of your application. This value is used when the
-    | framework needs to place the application's name in a notification or
-    | any other location as required by the application or its packages.
+
+    | Esse valor é o nome do seu aplicativo. Este valor é usado quando o
+    | framework precisa colocar o nome do aplicativo em uma notificação ou
+    | qualquer outro local, conforme exigido pelo aplicativo ou por seus pacotes.
     |
     */
 
@@ -17,12 +18,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Environment
+    | Ambiente de Aplicação
     |--------------------------------------------------------------------------
     |
-    | This value determines the "environment" your application is currently
-    | running in. This may determine how you prefer to configure various
-    | services the application utilizes. Set this in your ".env" file.
+
+    | Esse valor determina o "ambiente" que seu aplicativo está atualmente
+    | em execução. Isso pode determinar como você prefere configurar vários
+    | serviços que o aplicativo utiliza. Coloque isso no seu ambiente ".env" file.ation
     |
     */
 
@@ -30,12 +32,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Debug Mode
+    | Modo de Depuração de Aplicativo
     |--------------------------------------------------------------------------
     |
-    | When your application is in debug mode, detailed error messages with
-    | stack traces will be shown on every error that occurs within your
-    | application. If disabled, a simple generic error page is shown.
+
+    | Quando seu aplicativo está no modo de depuração, mensagens de erro detalhadas com
+    | rastreamentos de pilha serão mostrados em cada erro que ocorre dentro do seu
+    | aplicação. Se desativado, uma página de erro genérica simples é mostrada.
     |
     */
 
@@ -43,12 +46,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application URL
+    | URL do aplicativo
     |--------------------------------------------------------------------------
     |
-    | This URL is used by the console to properly generate URLs when using
-    | the Artisan command line tool. You should set this to the root of
-    | your application so that it is used when running Artisan tasks.
+    | Esse URL é usado pelo console para gerar URLs corretamente ao usar
+    | a ferramenta de linha de comando do Artisan. Você deve definir isso para a raiz de
+    | seu aplicativo para que ele seja usado durante a execução de tarefas do Artisan.
     |
     */
 
@@ -58,12 +61,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Timezone
+    | Fuso Horário de Aplicação
     |--------------------------------------------------------------------------
     |
-    | Here you may specify the default timezone for your application, which
-    | will be used by the PHP date and date-time functions. We have gone
-    | ahead and set this to a sensible default for you out of the box.
+
+    | Aqui você pode especificar o fuso horário padrão para seu aplicativo, que
+    | será usado pelas funções de data e hora do PHP. Nós tínhamos ido
+    | à frente e definir isso como um padrão sensato para você fora da caixa.
     |
     */
 
@@ -71,12 +75,13 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Locale Configuration
+    | Configuração do local de aplicação
     |--------------------------------------------------------------------------
     |
-    | The application locale determines the default locale that will be used
-    | by the translation service provider. You are free to set this value
-    | to any of the locales which will be supported by the application.
+
+    | A localidade do aplicativo determina a localidade padrão que será usada
+    | pelo fornecedor do serviço de tradução. Você é livre para definir este valor
+    | para qualquer um dos locais que serão suportados pelo aplicativo.
     |
     */
 
